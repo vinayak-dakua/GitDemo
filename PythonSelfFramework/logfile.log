@@ -1,0 +1,11 @@
+2021-04-22 14:06:03,891 :INFO : test_formSubmittion :firstnamevd
+2021-04-22 14:06:04,371 :INFO : test_formSubmittion :firstnameRd
+2021-04-22 14:06:04,371 :INFO : test_formSubmittion :firstnameRd
+2021-04-22 14:06:08,585 :INFO : test_e2e :getting all the card titles
+2021-04-22 14:06:08,636 :INFO : test_e2e :iphone X
+2021-04-22 14:06:08,675 :INFO : test_e2e :Samsung Note 8
+2021-04-22 14:06:08,718 :INFO : test_e2e :Nokia Edge
+2021-04-22 14:06:08,755 :INFO : test_e2e :Blackberry
+2021-04-22 14:06:08,953 :INFO : test_e2e :Entering country name as ind
+2021-04-22 14:06:14,499 :INFO : test_e2e :Test from application ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
