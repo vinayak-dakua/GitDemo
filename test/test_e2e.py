@@ -37,6 +37,8 @@ class TestOne(BaseClass):
         assert "Success!" in message
         self.driver.get_screenshot_as_file("sereen.png")
 
+        print("add by gitDemo first time")
+
 
 
 
